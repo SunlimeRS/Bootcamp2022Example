@@ -58,7 +58,7 @@ Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait k
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]([embed]https://docs.google.com/document/d/1-n266dmtF1DkFCmGeNS2pexLOFj5E578gX4MVtd4bTg/edit?usp=sharing[/embed])
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://drive.google.com/file/d/1x1EDJDZGMr75BrfVw479L9FCZrpWoxAR/view?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
